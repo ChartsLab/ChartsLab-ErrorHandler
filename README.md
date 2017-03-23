@@ -30,3 +30,4 @@ This mean that the Matrix1 Dosen't Conform with Matrix2 in Function Addation .
 ## How You Add New Exceptions :
 Just add New Headr with new number and new Description in the Head Matrix and Description Matrix .
 `Error.error(Error.Header)` : this will return `Error.Number , Error.Header , Error.Description`
+![Alt](https://raw.githubusercontent.com/ChartsLab/Error-Handeler/master/Screenshot%20from%202017-03-23%2019-49-25.png)
