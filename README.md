@@ -1,4 +1,4 @@
-# Error-Handeler
+# Error-Handler
 This Class is contain all errors that may happen when you use the Package , It is a layer that contain all Errors handlers to any class in ChartsLab Package . let's go in details with this class .
 
 ## What is the Variables And The Numbers ??
